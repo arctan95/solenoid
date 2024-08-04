@@ -1,0 +1,1 @@
+cargo:rerun-if-changed=/home/ubuntu/.codespaces/repositories/solenoid/src/bsp/raspberrypi/kernel.ld

@@ -1,0 +1,1 @@
+{"rustc":4818353434645405454,"features":"","target":0,"profile":0,"path":0,"deps":[[17081608151815950999,"build_script_build",false,7385731417474483843]],"local":[{"RerunIfChanged":{"output":"aarch64-unknown-none-softfloat/release/build/solenoid-9b89b994e0904587/output","paths":["src/bsp/raspberrypi/kernel.ld"]}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}
